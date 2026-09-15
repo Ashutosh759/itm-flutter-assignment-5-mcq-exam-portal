@@ -8,8 +8,8 @@ Built for **Assignment 5** of the ITM Skills University Flutter course.
 
 | | |
 |---|---|
-| **Student** | Sayuj Pillai |
-| **Roll number** | 150096724107 |
+| **Student** | Ashutosh759 |
+| **Roll number** | 161 |
 | **Stack** | Flutter · Node.js/Express · Firestore · Cloudinary |
 
 ---
